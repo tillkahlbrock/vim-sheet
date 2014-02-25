@@ -18,3 +18,9 @@ Navigation
 - 3L: Goto the third line starting from the end of the document
 - J: join the current line and the next line
 - 3J: join the current line and the next two lines
+
+Windows
+-------
+
+- :sp <Filename>: open <Filename> in new horizontal window
+- :vs <Filename>: open <Filename> in new vertical window
