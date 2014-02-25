@@ -24,3 +24,7 @@ Windows
 
 - :sp <Filename>: open <Filename> in new horizontal window
 - :vs <Filename>: open <Filename> in new vertical window
+- ctrl-w j: focus the next window
+- ctrl-w k: focus the previous window
+- ctrl-w ctrl-w: cycle through all windows
+- :qa: close all windows at once
