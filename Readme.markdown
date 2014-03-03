@@ -28,3 +28,18 @@ Windows
 - ctrl-w k: focus the previous window
 - ctrl-w ctrl-w: cycle through all windows
 - :qa: close all windows at once
+
+Spell Checking
+--------------
+
+- :local spell [spelllang=en_us]: enables spell checking for the optional language
+- zg: add the word under the cursor to the dictionary
+
+[Fugitive](https://github.com/tpope/vim-fugitive)
+-------------------------------------------------
+
+- :Gstatus: git status
+- :Gwrite: git add %
+- :Gremove: git rm %
+- :Gread: git checkout %
+- :Gcommit
